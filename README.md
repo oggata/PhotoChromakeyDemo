@@ -7,9 +7,9 @@ This is iOS original filter like chroma-key in Swift Language.
 git clone git@github.com:oggata/PhotoChromakeyDemo.git
 
 ![sample](chromakey_sample.png)
-1. Tap background-color you want to clip out
-2. Inside, masking image (black & white) is created. 
-3. Background-color is clipped by masking image.
+- 1. Tap background-color you want to clip out
+- 2. Inside, masking image (black & white) is created. 
+- 3. Background-color is clipped by masking image.
 
 ## ToDo's
 
